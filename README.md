@@ -9,6 +9,7 @@ Run `main.py`
 
 It uses `50_states.csv` to get the names of the states and their approximate locations on the screen.
 
+![img.png](inputs/img.png)
 
 Type "Exit" if you want to end the game.
 
